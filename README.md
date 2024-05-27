@@ -1,5 +1,5 @@
-# Stock-Data-Predictor-ML-Model
-Simple Stock Data Predictor ML Model
+# Stock-Trend-Predictor-ML-Model
+Simple Stock Trend Predictor ML Model
 
 ## To run this model:
   1. Clone this Repository
